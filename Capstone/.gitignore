@@ -1,2 +1,7 @@
 full_merge.pickle
 Reports/data_story_notes.txt
+filename.filetype
+best_ridge_AllVars_model.sav
+best_ridge_LassoVars.sav
+rfr_all_vars_model.sav
+rfr_lasso_vars_model.sav
