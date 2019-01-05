@@ -10,15 +10,15 @@ Data:
 5. abb_stat_inf_changes.csv: abb_merged dataset, with some additional transformations. Refer to statistical inference script for code. 
 
 Reports: Reports submitted as part of Capstone project at various stages
-1 - Project Proposal
-2 - Data Wrangling
-3 - Data Storytelling
-4 - Statistical Inference
-5 - Final Report
+1. Project Proposal
+2. Data Wrangling
+3. Data Storytelling
+4. Statistical Inference
+5. Final Report
 
 Scripts: Python Notebooks with code for all steps
-1 - Capstone_DataWrangling_Script - Initial data cleanup/transformations.
-2 - Capstone_Data_Merge_Script - Code to merge AirBnB and Yelp data. Has neighborhood cleanup steps, and a distance function to find the distance between each AirBnB listing and each Yelp business. 
-3 - Capstone_Data_Sotry_Script - Data visualizations created as part of Exploratory Data Analysis. 
-4 - Capstone_Statistical_Inference - Statistical tests performed as part of Exploratory Data Analysis.
-5 - Capstone_Modeling_Script - Modeling steps.
+1. Capstone_DataWrangling_Script - Initial data cleanup/transformations.
+2. Capstone_Data_Merge_Script - Code to merge AirBnB and Yelp data. Has neighborhood cleanup steps, and a distance function to find the distance between each AirBnB listing and each Yelp business. 
+3. Capstone_Data_Sotry_Script - Data visualizations created as part of Exploratory Data Analysis. 
+4. Capstone_Statistical_Inference - Statistical tests performed as part of Exploratory Data Analysis.
+5. Capstone_Modeling_Script - Modeling steps.
