@@ -15,6 +15,7 @@ Reports: Reports submitted as part of Capstone project at various stages
 3. Data Storytelling
 4. Statistical Inference
 5. Final Report
+6. Presentation Slides (Powerpoint slides used to present the project)
 
 Scripts: Python Notebooks with code for all steps
 1. Capstone_DataWrangling_Script - Initial data cleanup/transformations.
