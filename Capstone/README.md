@@ -1,4 +1,4 @@
-This repository contains data, code, and reports generated for my Capstone Project as part of Springboard's Data Science with Python Intensive Program. 
+This repository contains data, code, and reports generated for my Capstone Project as part of Springboard's Data Science with Python Intensive Program. The Final Report describing the project is in the reports folder. A high level description of the project is available as a blog post here: https://www.linkedin.com/pulse/predicting-airbnb-listing-price-utilization-joshua-karpen/
 
 Data Visualizations: Images created in Exploratory Data Analysis. Code in Data Storytelling script. 
 
